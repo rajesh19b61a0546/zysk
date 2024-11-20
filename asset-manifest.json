@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zysk/static/css/main.e3d9a7de.css",
+    "main.js": "/zysk/static/js/main.bbfbe8d2.js",
+    "static/js/335.77c38ea2.chunk.js": "/zysk/static/js/335.77c38ea2.chunk.js",
+    "index.html": "/zysk/index.html",
+    "main.e3d9a7de.css.map": "/zysk/static/css/main.e3d9a7de.css.map",
+    "main.bbfbe8d2.js.map": "/zysk/static/js/main.bbfbe8d2.js.map",
+    "335.77c38ea2.chunk.js.map": "/zysk/static/js/335.77c38ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d9a7de.css",
+    "static/js/main.bbfbe8d2.js"
+  ]
+}
