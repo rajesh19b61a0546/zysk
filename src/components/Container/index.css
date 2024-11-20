@@ -1,0 +1,38 @@
+.b {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 1280px; 
+  height: 240px; 
+  padding: 0 32px;
+  gap: 48px;
+  overflow-x: hidden; 
+  overflow-y: hidden; 
+  margin: 0 auto; 
+  background-color: white; 
+}
+
+.c {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 176px; 
+  height: 240px; 
+  gap: 16px; 
+}
+
+.q {
+  color: #667085;
+  font-size: 14px;
+  text-align: center;
+  margin: 0; 
+}
+
+.a {
+  color: #475467;
+  font-size: 14px;
+  text-align: center;
+  margin: 0; 
+}

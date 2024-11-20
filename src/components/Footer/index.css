@@ -1,0 +1,57 @@
+.z{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+width: Fill (1,216px)px;
+height: Hug (64px)px;
+padding: 32px 0px 0px 0px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+justify: space-between;
+opacity: 0px;
+
+    
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin: 40px;
+}
+
+.bo1 {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6px;
+    margin-right: 8px;
+    border-radius: 8px;
+    background: linear-gradient(0deg, #FFFFFF, #D0D5DD);
+    border: 0.2px solid #D0D5DD;
+}
+
+.bo2 {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: linear-gradient(26.57deg, #53389E 8.33%, #6941C6 91.67%);
+    box-shadow: 0px 1px 3px 0px #1018281A;
+}
+
+.name {
+    margin: 10px;
+    font-size: 24px;
+    text-align: center;
+    color: #101828;
+}
+.s{
+    width: 293px;
+height: 24px;
+gap: 0px;
+opacity: 0px;
+font-size: 16px;
+color: #667085;
+margin-top: 40px;
+}

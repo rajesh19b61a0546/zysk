@@ -1,0 +1,144 @@
+.co1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+padding: 46px 0px 0px 0px;
+gap: 34px;
+opacity: 0px;
+}
+.co2{
+   width: Fixed (1,280px)px;
+height: Hug (312px)px;
+padding: 0px 32px 0px 32px;
+gap: 32px;
+opacity: 0px;
+
+
+    display: flex;
+    flex-direction: row;
+text-align: center;
+align-items: center;
+justify-content: center;
+}
+.co3{
+    padding: 3px;
+    display: flex;
+    flex-direction: row;
+text-align: center;
+justify-content: center;
+align-items: center;
+border-radius: 16px 16px 16px 16px;
+border: 1px 0px 0px 0px;
+border: 1px solid #D6BBFB;
+
+}
+.nn1{
+    font-size: 14px;
+    color:  #6941C6;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nn2{
+    font-size: 14px;
+    color:  #6941C6;
+    font-family: Arial, Helvetica, sans-serif;
+margin-right: 27px;
+}
+.im{
+    width: 20;
+height: 20px;
+top: 3.33px;
+left: 3.33px;
+gap: 0px;
+border: 1.5px 0px 0px 0px;
+opacity: 0px;
+
+}
+.g1{
+width: 1024px;
+height: 10px;
+text-align: center;
+}
+.hea{
+font-size: 60px;
+color:#101828;
+margin: 10px;
+}
+.par{
+width: 768px;
+height: 60px;    
+}
+.hea{
+font-size: 20px;
+color:#475467;
+margin: 10px;
+}
+.k1{
+   width: 1216px;
+height: 810px;
+gap: 0px;
+border-radius: 12px 0px 0px 0px;
+border: 8px 0px 0px 0px;
+opacity: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.k2{
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;   
+}
+.i2{
+width: 20px;
+height: 20px;
+top: 2px;
+margin: 6px;
+left: 2px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+    
+}
+.ja{
+    width: 51px;
+height: 28px;
+gap: 0px;
+opacity: 0px;
+font-size: 18px;
+color:#344054;
+}
+.bt{
+    width: Hug (122px)px;
+height: Hug (60px)px;
+padding: 16px 28px 16px 28px;
+gap: 12px;
+border-radius: 8px 8px 8px 8px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #7F56D9;
+background: #7F56D9;
+color: #ffffff;
+font-size:12px;
+}
+.z1{
+    width: Fixed (1,280px)px;
+height: Hug (560px)px;
+padding: 0px 32px 0px 32px;
+gap: 32px;
+opacity: 0px;
+text-align: center
+};
+.fd{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+ width: 1216px;
+height: 566px;
+gap: 0px;
+opacity: 0px;    
+}
